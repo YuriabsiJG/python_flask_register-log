@@ -1,4 +1,4 @@
-# Flask Authentication System
+# Flask Registration & Log
 
 ## Setup and Installation
 
