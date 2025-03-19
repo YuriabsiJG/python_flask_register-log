@@ -1,3 +1,4 @@
+![Flask Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
 # Flask Registration & Log
 
 ## Setup and Installation
