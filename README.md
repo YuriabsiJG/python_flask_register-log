@@ -9,7 +9,7 @@ python -m venv env   # Create a virtual environment named 'env'
 ```
 ### Install requuirements 
 ```sh
-python -r install requirements.txt   # Create a virtual environment named 'env'
+python -r install requirements.txt   # installing the necessary libraires
 ```
 
 #### Activate the virtual environment:
